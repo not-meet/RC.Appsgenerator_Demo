@@ -4,6 +4,17 @@
 
 ---
 
+## DEMO ! 
+https://github.com/user-attachments/assets/0787d7db-c58b-4647-b60c-0b711a36da3a
+
+## GEMINI CREATED RC APP
+
+https://github.com/user-attachments/assets/6ab08ddd-c86c-41fe-9a93-d913b897bc20
+
+---
+---
+# DEMO SHOWED IN THE RC CHANNEL! 
+      
 ## The Prompt
 
 A completely non-technical user types:
