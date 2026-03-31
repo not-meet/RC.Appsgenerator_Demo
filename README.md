@@ -1,10 +1,21 @@
 # RC AI Apps Generator — Demo
 
 > From a plain English prompt to a working Rocket.Chat App.
+---
+## DEMO 1
+### prompt - i want a app that will help me to remeber the meetings timings happen in rc
+https://github.com/user-attachments/assets/68df788b-4712-4666-9507-da701b55cc0c
 
 ---
 
-## DEMO ! 
+## GEMINI CREATED RC APP
+https://github.com/user-attachments/assets/e25a5076-f092-4924-99c9-3be1f9d710fe
+
+---
+---
+
+## DEMO 2
+### Prompt - create a app that will help my team to perform task better 
 https://github.com/user-attachments/assets/0787d7db-c58b-4647-b60c-0b711a36da3a
 
 ## GEMINI CREATED RC APP
