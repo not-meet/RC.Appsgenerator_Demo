@@ -3,6 +3,17 @@
 > From a plain English prompt to a working Rocket.Chat App.
 ---
 ## DEMO 1
+### created a small working inspired app of Apps.quickreplies which rc has 
+https://github.com/user-attachments/assets/46bc14d7-ef6e-48c0-bb88-d803f5beb425
+
+---
+## GEMINI CREATED RC APP
+https://github.com/user-attachments/assets/18b05078-f525-4305-9f65-ef7d74bcd0b7
+
+---
+---
+
+## DEMO 2
 ### prompt - i want a app that will help me to remeber the meetings timings happen in rc
 https://github.com/user-attachments/assets/68df788b-4712-4666-9507-da701b55cc0c
 
@@ -14,7 +25,7 @@ https://github.com/user-attachments/assets/e25a5076-f092-4924-99c9-3be1f9d710fe
 ---
 ---
 
-## DEMO 2
+## DEMO 3
 ### Prompt - create a app that will help my team to perform task better 
 https://github.com/user-attachments/assets/0787d7db-c58b-4647-b60c-0b711a36da3a
 
